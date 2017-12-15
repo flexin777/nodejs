@@ -1,0 +1,12 @@
+{
+  "name": "Nodejs server",
+  "description": "Nodejs server",
+  "version": "1.0.0",
+  "main": "",
+  "author": "Vadym Morozov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}
