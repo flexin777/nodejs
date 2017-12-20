@@ -5,7 +5,9 @@ nodejs
 
 Run `npm install`(from directory where is package.json file)
 Now run the test with:
-node index.js
+`node index.js`
+
+To run test: go to test folder. And run `npm test`.
 
 
 

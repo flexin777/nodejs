@@ -1,12 +1,16 @@
 {
-  "name": "Nodejs server",
+  "name": "NodejsServer",
   "description": "Nodejs server",
   "version": "1.0.0",
   "main": "",
   "author": "Vadym Morozov",
   "license": "ISC",
+  "scripts": {"test": "mocha"},
   "dependencies": {},
   "devDependencies": {
-    "http": "0.0.0"
+    "chai": "^4.1.2",
+    "http": "0.0.0",
+    "mocha": "^4.0.1",
+    "request": "^2.83.0"
   }
 }
